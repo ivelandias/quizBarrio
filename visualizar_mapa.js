@@ -29,5 +29,6 @@ var polygon = L.polygon(polygonCoordinates, {
 
 // Ajusta la vista del mapa para encajar el polígono
 map.fitBounds(polygon.getBounds());
-// Generar 20 puntos simulando árboles dentro del polígono
+
+
 
